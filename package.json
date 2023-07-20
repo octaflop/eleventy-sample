@@ -1,0 +1,11 @@
+{
+  "name": "eleventy-sample",
+  "version": "1.0.0",
+  "description": "sampling eleventy",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-fetch": "^4.0.0"
+  }
+}
